@@ -184,5 +184,6 @@ jupyter notebook notebooks/marketing_analysis.ipynb
 - Dataset is synthetically generated with realistic constraints  
 - All monetary values are assumed in USD  
 - Campaign performance differences are simulated based on realistic CTR and conversion ranges
-
-
+---
+# 👤 Author
+Anis Ahmed

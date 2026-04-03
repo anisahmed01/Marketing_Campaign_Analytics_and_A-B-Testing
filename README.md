@@ -93,12 +93,6 @@ Raw Data → Data Cleaning → Feature Engineering → SQL Analysis → Statisti
 - Campaign performance tracking  
 - Platform comparison  
 - CPA & ROI analysis
-### 📊 Visual 
-!(Dashboard_images/Screenshot 2026-04-03 134015.png)
-!(Dashboard_images/Screenshot 2026-04-03 134054.png)
-!(Dashboard_images/Screenshot 2026-04-03 133840.png)
-
-
 ---
 
 ## 🚀 Business Recommendations
@@ -185,6 +179,12 @@ pip install -r requirements.txt
 - Campaign performance differences are simulated based on realistic CTR and conversion ranges
 
 ---
+### 📊 Visuals
 
+![Dashboard 1](Dashboard_images/Screenshot%202026-04-03%20134015.png)
+![Dashboard 2](Dashboard_images/Screenshot%202026-04-03%20134054.png)
+![Dashboard 3](Dashboard_images/Screenshot%202026-04-03%20133840.png)
+
+---
 ## 👤 Author
 Anis Ahmed

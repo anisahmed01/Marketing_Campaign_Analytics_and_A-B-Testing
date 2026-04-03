@@ -92,7 +92,9 @@ Raw Data → Data Cleaning → Feature Engineering → SQL Analysis → Statisti
 ## 📊 Dashboard
 - Campaign performance tracking  
 - Platform comparison  
-- CPA & ROI analysis  
+- CPA & ROI analysis
+### Visual <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/aa0a99ad-429d-4f9c-9bb8-dddecdcc9207" />
+
 
 ---
 

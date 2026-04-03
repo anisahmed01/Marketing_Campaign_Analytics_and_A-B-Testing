@@ -25,7 +25,7 @@ Raw Data → Data Cleaning → Feature Engineering → SQL Analysis → Statisti
 - **Python:** pandas, numpy, scipy, matplotlib, seaborn  
 - **SQL (SQLite):** Aggregation & campaign analysis  
 - **Statistics:** A/B Testing (t-test), Linear Regression  
-- **Power BI:** Dashboard & reporting  
+- **Matplotlib & Seaborn:** Dashboard & reporting  
 
 ---
 
@@ -94,14 +94,13 @@ Raw Data → Data Cleaning → Feature Engineering → SQL Analysis → Statisti
 ---
 ## 📁 Repository Structure
 
-marketing-campaign-analysis/
+```
+Marketing-Campaign-Analytics-A-B-Testing-Conversion-Optimization-SQL-Python-Statistics/
 │
-├── data/
-│   ├── raw/                  # Original synthetic dataset
-│   └── processed/            # Cleaned dataset used for analysis
+├── Dashboard_images         # images of Dashboard
 │
-├── notebooks/
-│   └── marketing_analysis.ipynb   # Full analysis (EDA, A/B testing, regression)
+├── data                     # raw csv data 
+│   
 │
 ├── sql/
 │   └── campaign_analysis.sql      # SQL queries for aggregation & insights
@@ -109,14 +108,13 @@ marketing-campaign-analysis/
 ├── src/
 │   └── data_generation.py         # Script to generate synthetic dataset
 │
-├── dashboards/
-│   └── marketing_dashboard.pbix   # Power BI dashboard file
 │
-├── screenshots/
-│   └── dashboard.png              # Dashboard preview
+├── Marketing_Campaign_Analytics_A_B_Testing_&_Conversion_Optimization.ipynb     # # Full analysis (EDA, A/B testing, regression)
+
 │
 ├── README.md                      # Project documentation
 └── requirements.txt               # Python dependencies
+```
 
 ---
 
@@ -154,8 +152,7 @@ sqlalchemy
 
 1. ### Clone the repository:
 ```
-git clone https://github.com/your-username/marketing-campaign-analysis.git
-cd marketing-campaign-analysis
+git clone https://https://github.com/anisahmed01/Marketing-Campaign-Analytics-A-B-Testing-Conversion-Optimization-SQL-Python-Statistics
 ```
 2. ### Install dependencies:
 ```

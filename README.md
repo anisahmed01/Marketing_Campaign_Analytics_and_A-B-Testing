@@ -1,4 +1,4 @@
-# Marketing Campaign Analytics: A/B Testing & Conversion Optimization  
+# Marketing Campaign Analytics & A/B Testing
 **SQL | Python | Power BI | Statistics**
 
 ---
